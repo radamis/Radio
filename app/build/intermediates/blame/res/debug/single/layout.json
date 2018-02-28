@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/layout/playerfinal.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/layout/playerfinal.xml"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/layout/sobre.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/layout/sobre.xml"
+    }
+]

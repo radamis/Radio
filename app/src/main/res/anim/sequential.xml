@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true"
+    android:interpolator="@android:anim/linear_interpolator">
+
+    <!-- Use startOffset para dar atraso entre animações -->
+
+
+    <!-- Mover -->
+    <translate xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="2000"
+        android:fromXDelta="0%"
+        android:fromYDelta="700%"
+        android:toXDelta="0%"
+        android:toYDelta="0%"
+        android:zAdjustment="top" />
+
+
+    <!-- Gire 360 graus -->
+    <rotate
+        android:duration="1000"
+        android:fromDegrees="0"
+        android:interpolator="@android:anim/cycle_interpolator"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:startOffset="2100"
+
+        android:toDegrees="360" />
+    <scale xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="3000"
+        android:fromXScale="1"
+        android:fromYScale="1"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:startOffset="3100"
+        android:toXScale="3"
+        android:toYScale="3"></scale>
+
+
+</set>

@@ -1,0 +1,7 @@
+#Sun Oct 22 00:59:22 BRT 2017
+base.0=/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_86747b8730678692e409dbdc67196fdaa9f21a17
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dda2b623a6feae61b0d4116ceb54bb528d529f3c/classes.dex
+base.1=/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dda2b623a6feae61b0d4116ceb54bb528d529f3c
+file.0=/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_86747b8730678692e409dbdc67196fdaa9f21a17/classes.dex

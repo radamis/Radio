@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/r/linux/solutions_onion/Projetos Solutions Onion/Radio RPS/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/r/linux/solutions_onion/Projetos Solutions Onion/Radio RPS/app/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "/media/r/linux/solutions_onion/Projetos Solutions Onion/Radio RPS/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "94,141",
+                        "endColumns": "46,52",
+                        "endOffsets": "136,189"
+                    }
+                },
+                {
+                    "source": "/media/r/linux/solutions_onion/Projetos Solutions Onion/Radio RPS/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "12,21,-1",
+                        "startColumns": "4,4,-1",
+                        "startOffsets": "570,959,-1",
+                        "endLines": "18,23,-1",
+                        "endColumns": "12,12,-1",
+                        "endOffsets": "918,1133,-1"
+                    },
+                    "to": {
+                        "startLines": "5,12,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "194,541,718",
+                        "endLines": "11,14,20",
+                        "endColumns": "12,12,16",
+                        "endOffsets": "536,713,1060"
+                    }
+                }
+            ]
+        }
+    ]
+}

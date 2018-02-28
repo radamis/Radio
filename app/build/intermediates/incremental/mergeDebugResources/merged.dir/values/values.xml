@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="volumebar" type="id"/>
+    <string name="app_name">Rádio RPS</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            As personalizações de tema disponíveis nos níveis de API mais recentes podem entrar
+             res / values-vXX / styles.xml, enquanto personalizações relacionadas a
+             A compatibilidade com versões anteriores pode ir aqui.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- Todas as personalizações que não são específicas para um determinado nível de API podem ir aqui. -->
+    </style>
+    <style name="CustomProgressBar" parent="android:Widget.ProgressBar.Horizontal">
+          <item name="android:indeterminateOnly">false</item>
+          <item name="android:progressDrawable">@drawable/myprogress</item>
+          <item name="android:minHeight">10dip</item>
+          <item name="android:maxHeight">20dip</item>
+        </style>
+</resources>

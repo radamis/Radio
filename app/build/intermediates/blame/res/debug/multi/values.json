@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "/root/Documents/Radio RPS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/root/Documents/Radio RPS/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 46,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/root/Documents/Radio RPS/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 52,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "/root/Documents/Radio RPS/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "/root/Documents/Radio RPS/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/root/Documents/Radio RPS/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endLine": 20,
+                    "endColumn": 16,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/root/Documents/Radio RPS/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 6,
+                        "endColumn": 16,
+                        "endOffset": 364
+                    }
+                }
+            }
+        ]
+    }
+]

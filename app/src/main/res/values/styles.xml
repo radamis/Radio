@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="CustomProgressBar" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/myprogress</item>
+        <item name="android:minHeight">10dip</item>
+        <item name="android:maxHeight">20dip</item>
+    </style>
+
+    <!--
+        Tema base do aplicativo, dependente do nível da API. Este tema é substituído
+         por AppBaseTheme de res / values-vXX / styles.xml em dispositivos mais recentes.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            As personalizações de tema disponíveis nos níveis de API mais recentes podem entrar
+             res / values-vXX / styles.xml, enquanto personalizações relacionadas a
+             A compatibilidade com versões anteriores pode ir aqui.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- Todas as personalizações que não são específicas para um determinado nível de API podem ir aqui. -->
+    </style>
+
+</resources>

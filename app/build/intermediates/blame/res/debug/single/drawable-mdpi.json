@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/about_icon.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/about_icon.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/power.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/power.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/volume.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/volume.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/bar_not.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/bar_not.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/twitter_icon.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/twitter_icon.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_stop_press.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/btn_stop_press.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/baractive.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/baractive.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/seek_handler.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/seek_handler.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/facebook_icon.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/facebook_icon.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_play_press.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/btn_play_press.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/logo_onion.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/logo_onion.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/background.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_stop_active.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/btn_stop_active.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/fundo_sobre.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/fundo_sobre.png"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_play_active.png",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/drawable-mdpi/btn_play_active.png"
+    }
+]

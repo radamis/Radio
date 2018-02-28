@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/anim/sequential.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/anim/sequential.xml"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/root/Documents/Radio RPS/app/build/intermediates/res/merged/debug/anim/from_botton.xml",
+        "source": "/root/Documents/Radio RPS/app/src/main/res/anim/from_botton.xml"
+    }
+]

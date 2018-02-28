@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Radio RPS/app/libs/GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/2/GoogleAdMobAdsSdk-6.4.1_055b4db7434053d2d28065341b2217a3f89009b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Radio RPS/app/libs/jsoup-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.7.2_9f06026a0f332f20ff713a2849f2ff54dae5fbbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Radio RPS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89418218a8d901f49051a3455ae046bea0889a9b">
+        <dex dex="/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_86747b8730678692e409dbdc67196fdaa9f21a17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Radio RPS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dda2b623a6feae61b0d4116ceb54bb528d529f3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/root/Documents/Radio RPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_89ceda92875ab9dbed145556b5d456dc3415dd3e/classes.dex" />
+    </item>
+
+</items>
